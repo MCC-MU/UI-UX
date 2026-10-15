@@ -4,8 +4,8 @@ The learning plan for the UI/UX track. One roadmap covers both levels, Beginner 
 
 ## What is in this repository
 
-- `UI-UX-Track-Roadmap.md`: the week-by-week roadmap. Open it first.
-- `README.md`: this file.
+- [ROADMAP.md](./ROADMAP.md) : the week-by-week roadmap. Open it first.
+- README.md : this file.
 
 ## Who it is for
 
